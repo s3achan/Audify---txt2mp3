@@ -3,7 +3,7 @@
 > Turn any text into natural-sounding audio — paste, upload, or convert from the command line.  
 > Free. No API key. Powered by Microsoft Edge neural voices.
 
-**Live demo:** https://readout.streamlit.app ← update after deploying
+**Live demo:** https://audify-txt2mp3.streamlit.appp
 
 ---
 
@@ -24,7 +24,7 @@ readout/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/readout.git
+git https://github.com/s3achan/Audify---txt2mp3
 cd readout
 pip install -r requirements.txt
 ```
