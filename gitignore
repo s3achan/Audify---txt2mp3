@@ -1,0 +1,25 @@
+# Audio output
+*.mp3
+*.wav
+
+# Input text files (likely personal/sensitive)
+*.txt
+!example.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db

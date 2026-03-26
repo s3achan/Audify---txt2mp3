@@ -1,0 +1,5 @@
+Welcome to txt2mp3.
+
+This is a sample text file. Replace this content with anything you'd like to hear spoken aloud — interview prep notes, study material, articles, or any long-form text.
+
+You can adjust the voice and speaking rate from the command line. Run python tts.py --help to see all options.
