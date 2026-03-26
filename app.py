@@ -30,7 +30,7 @@ html, body, [class*="css"] {
 }
 
 /* Hide Streamlit chrome */
-#MainMenu, footer { visibility: hidden; }
+#MainMenu, footer, header { visibility: hidden; }
 .block-container { padding-top: 3rem; padding-bottom: 3rem; max-width: 740px; }
 
 /* Hero title */
